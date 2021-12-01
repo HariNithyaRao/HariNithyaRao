@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @HariNithyaRao
+- 👋 Hi, I’m HariNithyaRao
 - 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and pursuing B.tech in computerscience
