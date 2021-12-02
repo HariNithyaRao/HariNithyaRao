@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Hari Nithya Rao👩‍💻
-- I’m interested in AI & ML
-- I’m currently learning Python🐍 and pursuing B.Tech in Computer Science💻
+- I’m interested in AI & ML.
+- I’m currently learning Python🐍 and pursuing B.Tech in Computer Science with specialization in AI & ML.💻
